@@ -29,3 +29,14 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+.about-img img {
+    width: 100%;
+    height: 300px;
+}
+#services-wrapper .head-title-p {
+    padding-bottom: 200px !important;
+    text-align: center;
+    padding-right: 200px;
+    padding-left: 200px;
+
+}
